@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(200, 228, 235);
+}
+
+.title {
+    text-align: center;
+    color: rgb(65, 135, 192);
+    font-size:xxx-large;
+}
+
+.header {
+    text-align: center;
+    color: rgb(33, 55, 87);
+}
+
+.header2 {
+    text-align: center;
+    color: rgb(33, 55, 87);
+}
+
+.form {
+    text-align: center;
+    color: rgb(33, 55, 87);
+    font-size: x-large;
+}   
+
+.box {
+    background-color: rgb(97, 178, 224);
+    width:50%;
+    display: block;
+    margin: auto;
+    box-shadow: 4px 4px rgb(33, 55, 87);;
+}
+
+.button {
+    background-color: greenyellow;
+    color: green;
+    border-color: green;
+    font-size: large;
+}
+
+
+.error {
+    text-align: center;
+    color: rgb(146, 43, 43);
+    font-size: x-large;
+}
+
+
+.credits {
+    text-align:center;
+    color: rgb(33, 55, 87);
+
+}
